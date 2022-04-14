@@ -1,6 +1,7 @@
 import axios from 'axios';
 import React, { Component } from 'react'
 import ReactPaginate from 'react-paginate';
+import './App.css'
 
 class App extends Component{
   constructor(props) {
